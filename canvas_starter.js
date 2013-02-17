@@ -1,3 +1,15 @@
-﻿var c = {};
+﻿var c = (function(){
 
-//will do more!
+var 
+	canvas = document.createElement('canvas'),
+    context = canvas.getContext("2d");
+
+    document.body.appendChild( canvas );
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerWidth;
+
+
+return context;
+
+
+}).call(this);
