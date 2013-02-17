@@ -14,6 +14,3 @@ return context;
 
 
 }).call(this);
-
-//added comment one
-//added comment two
