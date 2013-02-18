@@ -1,5 +1,5 @@
 ﻿//makes and adds a canvas element and returns the context
-var c = (function(){
+var ctx = (function(){
 
 	var 
 		canvas = document.createElement('canvas'),
