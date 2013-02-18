@@ -1,23 +1,52 @@
 
+Drawn from: http://jsforcats.com/
+
+
+
+strings/variables/built-in functions
 
 ```javascript:
-//strings/variables/functions
 var dogSentence = "Our family has two dogs.";
+```
 
+```javascript:
 dogSentence.replace("dogs", "cats");
 ```
 
+Third party library:
 Underscore: http://underscorejs.org/underscore.js
 
 ```javascript:
 _.first("hello");
 ```
 
+homemade functions (makeMoreExciting):
 ```javascript:
 function makeMoreExciting(string) {
   return string + '!!!!'
 }
 ```
+
+homemade functions (yellIt):
+```javascript:
+function yellIt(string) {
+  string = string.toUpperCase()
+  string = makeMoreExciting(string)
+  console.log(string)
+}
+```
+
+
+loops (logANumber):
+```javascript:
+function logANumber(someNumber) {
+  console.log(someNumber)
+}
+_.times(10, logANumber)
+```
+
+[Stop before Arrays at jsforcats.com]
+
 
 Canvas starter code:
 ```javascript
@@ -40,5 +69,3 @@ var c = (function(){
 ```
 
 
-
-Reading: http://jsforcats.com/
