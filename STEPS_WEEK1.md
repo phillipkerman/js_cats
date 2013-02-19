@@ -2,8 +2,7 @@ Drawn from: http://jsforcats.com/
 
 
 
-strings/variables/built-in functions
-
+==Strings/variables/built-in functions
 ```javascript:
 var dogSentence = "Our family has two dogs.";
 ```
@@ -12,21 +11,21 @@ var dogSentence = "Our family has two dogs.";
 dogSentence.replace("dogs", "cats");
 ```
 
-Third party library:
+==Third party library:
 Underscore: http://underscorejs.org/underscore.js
 
 ```javascript:
 _.first("hello");
 ```
 
-homemade functions (makeMoreExciting):
+==Homemade functions (makeMoreExciting):
 ```javascript:
 function makeMoreExciting(string) {
   return string + '!!!!';
 }
 ```
 
-homemade functions (yellIt):
+==Homemade functions (yellIt):
 ```javascript:
 function yellIt(string) {
   string = string.toUpperCase();
@@ -36,7 +35,7 @@ function yellIt(string) {
 ```
 
 
-loops (logANumber):
+==Loops (logANumber):
 ```javascript:
 function logANumber(someNumber) {
   console.log(someNumber);
@@ -47,7 +46,7 @@ _.times(10, logANumber);
 [Stop before Arrays at jsforcats.com]
 
 
-Canvas starter code:
+==Canvas starter code:
 ```javascript
 //makes and adds a canvas element and returns the context
 var ctx = (function(){
