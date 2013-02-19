@@ -1,15 +1,15 @@
 Outline:
-*learn the console
-	*get the attitude of a programmer
+* learn the console
+	* get the attitude of a programmer
 
-*follow along the first part of "JavaScript for Cats"
-	*strings
-	*variables
-	*using functions
-	*using third-party libraries (of functions)
-	*play with canvas (triggering methods and setting properties)
+* follow along the first part of "JavaScript for Cats"
+	* strings
+	* variables
+	* using functions
+	* using third-party libraries (of functions)
+	* play with canvas (triggering methods and setting properties)
 
-*see projects we can work on during the course.
+* see projects we can work on during the course.
 
 
 Drawn from: http://jsforcats.com/
