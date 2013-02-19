@@ -23,16 +23,16 @@ _.first("hello");
 homemade functions (makeMoreExciting):
 ```javascript:
 function makeMoreExciting(string) {
-  return string + '!!!!';
+  return string + '!!!!'
 }
 ```
 
 homemade functions (yellIt):
 ```javascript:
 function yellIt(string) {
-  string = string.toUpperCase();
-  string = makeMoreExciting(string);
-  console.log(string);
+  string = string.toUpperCase()
+  string = makeMoreExciting(string)
+  console.log(string)
 }
 ```
 
@@ -40,9 +40,9 @@ function yellIt(string) {
 loops (logANumber):
 ```javascript:
 function logANumber(someNumber) {
-  console.log(someNumber);
+  console.log(someNumber)
 }
-_.times(10, logANumber);
+_.times(10, logANumber)
 ```
 
 [Stop before Arrays at jsforcats.com]
