@@ -1,5 +1,5 @@
 Drawn from: http://jsforcats.com/
-(edit while at github)
+
 
 
 strings/variables/built-in functions
