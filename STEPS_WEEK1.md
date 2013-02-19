@@ -1,19 +1,25 @@
 Outline:
 * learn the console
-	* get the attitude of a programmer
-
+* get the attitude of a programmer
+	* have humility
+	* high threashold for pain
+	* right/easy/good at on your first try
+* programming with services/libraries 
 * follow along the first part of "JavaScript for Cats"
 	* strings
 	* variables
 	* using functions
 	* using third-party libraries (of functions)
 	* play with canvas (triggering methods and setting properties)
-
 * see projects we can work on during the course.
+	* lines: http://jsfiddle.net/phillipkerman/Vjbah/
+	* circles: http://jsfiddle.net/phillipkerman/UjRAx/4/
+	* broken: http://jsbin.com/oqemaf/101/edit 
 
 
-Drawn from: http://jsforcats.com/
 
+
+Unshamelesly, but with due respect, the content below is drawn from: http://jsforcats.com/
 
 
 Strings/variables/built-in functions
