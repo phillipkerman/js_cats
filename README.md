@@ -1,4 +1,4 @@
-js_cats
+Begin by reading through STEPS_WEEK1.md
 =======
 
-Class files for programming enrichment class.
+Additional class files for programming enrichment class will appear here.
