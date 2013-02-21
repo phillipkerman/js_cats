@@ -12,15 +12,15 @@ Outline:
 	* using third-party libraries (of functions)
 * use my "Canvas starter code" (below) to play with canvas (triggering methods and setting properties)
 	* draw a rectangle (specifying x,y,width,height):
-	```javascript:
+	```
 	ctx.fillRect(0,0,100,100);
 	```
 	* clear a rectangle (specifying x,y,width,height):
-	```javascript:
+	```
 	ctx.clearRect(0,0,100,100);
 	```
 	* other methods:
-	```javascript:
+	```
 	ctx.fillStyle = '#ff0000';
 	ctx.fillStyle = 'blue';
 	ctx.
