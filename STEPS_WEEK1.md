@@ -1,4 +1,5 @@
-Outline:
+Outline for day:
+=======
 * learn the console
 * get the attitude of a programmer
 	* have humility
@@ -30,8 +31,8 @@ Outline:
 	* broken: http://jsbin.com/oqemaf/101/edit 
 
 
-
-
+Follow "JavaScript for Cats"
+=======
 Unshamelesly, but with due respect, the content below is drawn from: http://jsforcats.com/
 
 After going through the first part of JavaScript For Cats (up to Arrays) you should be familiar with the code snippets below.
