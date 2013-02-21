@@ -23,7 +23,6 @@ Outline:
 	```
 	ctx.fillStyle = '#ff0000';
 	ctx.fillStyle = 'blue';
-	ctx.
 	```
 * take a peek at projects we can work on during the course.
 	* lines: http://jsfiddle.net/phillipkerman/Vjbah/
