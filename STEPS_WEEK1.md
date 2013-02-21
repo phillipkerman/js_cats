@@ -3,15 +3,29 @@ Outline:
 * get the attitude of a programmer
 	* have humility
 	* high threashold for pain
-	* right/easy/good at on your first try
-* programming with services/libraries 
-* follow along the first part of "JavaScript for Cats"
+	* realize, things that are easy on first try are usually not particularly interesting. With programming, you'll be wrong a lot--that's part of the process
+* understand a trend in programming is to add other people's code to your projects (services/libraries)
+* follow along the first part of "JavaScript for Cats" (http://jsforcats.com/)
 	* strings
 	* variables
 	* using functions
 	* using third-party libraries (of functions)
-	* play with canvas (triggering methods and setting properties)
-* see projects we can work on during the course.
+* use my "Canvas starter code" (below) to play with canvas (triggering methods and setting properties)
+	* draw a rectangle (specifying x,y,width,height):
+	```javascript:
+	ctx.fillRect(0,0,100,100);
+	```
+	* clear a rectangle (specifying x,y,width,height):
+	```javascript:
+	ctx.clearRect(0,0,100,100);
+	```
+	* other methods:
+	```javascript:
+	ctx.fillStyle = '#ff0000';
+	ctx.fillStyle = 'blue';
+	ctx.
+	```
+* take a peek at projects we can work on during the course.
 	* lines: http://jsfiddle.net/phillipkerman/Vjbah/
 	* circles: http://jsfiddle.net/phillipkerman/UjRAx/4/
 	* broken: http://jsbin.com/oqemaf/101/edit 
@@ -21,6 +35,7 @@ Outline:
 
 Unshamelesly, but with due respect, the content below is drawn from: http://jsforcats.com/
 
+After going through the first part of JavaScript For Cats (up to Arrays) you should be familiar with the code snippets below.
 
 Strings/variables/built-in functions
 =======
@@ -68,7 +83,7 @@ function logANumber(someNumber) {
 _.times(10, logANumber);
 ```
 
-[Stop before Arrays at jsforcats.com]
+[End of JavaScript For Cats portion--stop before Arrays]
 
 
 Canvas starter code:
