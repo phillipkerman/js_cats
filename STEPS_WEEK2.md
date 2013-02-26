@@ -1,6 +1,6 @@
 Plan
 =======
-* hexidecimal counter http://phillipkerman.com/cedaroak/hex/
+* see hexidecimal counter http://phillipkerman.com/cedaroak/hex/
 * review last week: console, programmer attititude quiz, variables holding strings
 * third party libraries (abstract you from loops)
 * see some code and typical end point (html, js, css files)
@@ -21,3 +21,7 @@ Quiz
 * If you type code and it works on the first try you may or may not have written it correctly.  What could explain why incorrect code appears to work correctly?
 * T/F: A programmer must be able to memorize an enormous amount of information. 
 * T/F: Programming is a competitive sport and the best programmer "wins".
+
+Link Reminder
+======
+![](link_picture.png)
