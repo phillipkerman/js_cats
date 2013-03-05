@@ -2,15 +2,20 @@ Plan
 =======
 * discuss class pattern: 10-15 minutes discussion, 30+ minutes at computer, 10 minute post mortem?
 * discuss any epiphanies or ponderings
+* see my 1GAM/February: http://phillipkerman.com/rando/
 * vocabulary
 * review jsfiddle vs. console (mention other tools)
 * code movie
 * remind tinyurl.com/jscats
-* today: watch me make mistakes/fix them and learn about functions 
+* today
+	* watch me make mistakes/fix them and learn about functions
+	* set up event listeners to "listen" for clicks
+	* link to event listener starter http://jsfiddle.net/phillipkerman/MB6RV/
+	* link to canvas starter (and draw APIs) http://jsfiddle.net/phillipkerman/Abttv/
 * coming up
 	* designing data types / objects
 	* arrays, loops, setInterval
-* link to my jsfiddle with canvas starter and draw APIs http://jsfiddle.net/phillipkerman/Abttv/
+* link to my jsfiddle with 
 
 code.org (movie)
 =======
