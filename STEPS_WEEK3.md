@@ -12,13 +12,17 @@ Plan
 	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: 
 		* line 8 where you begin subscribing to clicks:
 	`window.addEventListener("click", myHandler);`
-		* lines 9-12 where you define the myHandler function referenced on line 8:
-
-`function myHandler(evt){
-	//demonstrate access to two important properties of the evt parameter
-	console.log("you clicked " + evt.clientX + " x " + evt.clientY + " y");
+		* lines 9-12 where you define the myHandler function referenced on line 8.  Notice we can get details about the event that landed us in the myHandler function by accessing the single parameter which all such functions (those serving as destinations for event listeners)--named "evt" in my code.  Namely, evt.clientX tells you the x position of the mouse when they clicked.
+	* You can write your own functions.  Named functions always look like this:
+`function myFunction(){
+	
 }`
-	* link to canvas starter (and draw APIs) http://jsfiddle.net/phillipkerman/Abttv/
+	* To trigger the myFunction function, you use: `myFunction();`
+	* We also discussed writing your own functions which accept 1 or more parameters.  The "signature" (that is, the form for all such functions) is:
+`function myOtherFunction(param1,param2){
+	//here you can access the values for param1 and param2
+}`
+	* With the way the myOtherFunction function is designed, you will trigger that function AND pass values for those two parameters.  Perhaps something like this: `myOtherFunction(100,150);`  (We will return to this topic because it's tricky.) 
 * coming up
 	* designing data types / objects
 	* arrays, loops, setInterval
