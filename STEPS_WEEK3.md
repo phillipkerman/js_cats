@@ -9,8 +9,14 @@ Plan
 * remind tinyurl.com/jscats
 * today
 	* learn to check the console for code errors, for example, this file (http://jsfiddle.net/phillipkerman/dyXs2/)  should display an error (in the console) every time you click in the "result" pane (bottom right square).  (To fix it: remove the begin comment "/*" on line 14 and end comment "*/" on line 25.)  
-	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: line 8 where you begin subscribing to clicks:
+	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: 
+		* line 8 where you begin subscribing to clicks:
 	`window.addEventListener("click", myHandler);`
+		* lines 9-12 where you define the myHandler function referenced on line 8:
+		`function myHandler(evt){
+    //demonstrate access to two important properties of the evt parameter
+    console.log("you clicked " + evt.clientX + " x " + evt.clientY + " y");
+}`
 	* link to canvas starter (and draw APIs) http://jsfiddle.net/phillipkerman/Abttv/
 * coming up
 	* designing data types / objects
