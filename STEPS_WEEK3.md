@@ -14,9 +14,9 @@ Plan
 	`window.addEventListener("click", myHandler);`
 		* lines 9-12 where you define the myHandler function referenced on line 8:
 		`function myHandler(evt){
-    //demonstrate access to two important properties of the evt parameter
-    console.log("you clicked " + evt.clientX + " x " + evt.clientY + " y");
-}`
+			//demonstrate access to two important properties of the evt parameter
+			console.log("you clicked " + evt.clientX + " x " + evt.clientY + " y");
+		}`
 	* link to canvas starter (and draw APIs) http://jsfiddle.net/phillipkerman/Abttv/
 * coming up
 	* designing data types / objects
