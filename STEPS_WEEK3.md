@@ -1,12 +1,11 @@
-Plan
+What we did
 =======
-* discuss class pattern: 10-15 minutes discussion, 30+ minutes at computer, 10 minute post mortem?
-* discuss any epiphanies or ponderings
-* see my 1GAM/February: http://phillipkerman.com/rando/
-* vocabulary
-* review jsfiddle vs. console (mention other tools)
-* code movie
-* remind tinyurl.com/jscats
+* We discussed class pattern: 10-15 minutes discussion (bring a snack), 30+ minutes at computer, 10 minute post mortem if needed.
+* We discussed any epiphanies or ponderings.  One thing shared was that Eli discovered a language called Lua (http://www.lua.org/)
+* I shared my "one game a month" entry for February: http://phillipkerman.com/rando/  (It's a little bit of a mess, but you can see the main code for that at http://phillipkerman.com/rando/js/main.js  --just look below the comments "//=======")
+* We discussed some vocabulary: properties, methods, strings, concatenation
+* We reviewed jsfiddle vs. console.
+* I pointed to the code movie below--please watch it.
 * today
 	* learn to check the console for code errors, for example, this file (http://jsfiddle.net/phillipkerman/dyXs2/)  should display an error (in the console) every time you click in the "result" pane (bottom right square).  (To fix it: remove the begin comment "/*" on line 14 and end comment "*/" on line 25.)  
 	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: 
