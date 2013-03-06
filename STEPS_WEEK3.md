@@ -12,7 +12,7 @@ Plan
 	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: 
 		* line 8 where you begin subscribing to clicks:
 	`window.addEventListener("click", myHandler);`
-		* lines 9-12 where you define the myHandler function referenced on line 8.  Notice we can get details about the event that landed us in the myHandler function by accessing the single parameter which all such functions (those serving as destinations for event listeners)--named "evt" in my code.  Namely, evt.clientX tells you the x position of the mouse when they clicked.
+		* lines 9-12 where you define the myHandler function referenced on line 8. Notice we can get details about the event that landed us in the myHandler function by accessing the single parameter which all such functions (those serving as destinations for event listeners)--named "evt" in my code.  Namely, evt.clientX tells you the x position of the mouse when they clicked.
 	* You can write your own functions.  Named functions always look like this:
 `function myFunction(){
 	
