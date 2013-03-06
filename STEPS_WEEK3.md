@@ -14,10 +14,11 @@ Plan
 	`window.addEventListener("click", myHandler);`
 		* lines 9-12 where you define the myHandler function referenced on line 8. Notice we can get details about the event that landed us in the myHandler function by accessing the single parameter which all such functions (those serving as destinations for event listeners)--named "evt" in my code.  Namely, evt.clientX tells you the x position of the mouse when they clicked.
 	* You can write your own functions.  Named functions always look like this:
-	`function myFunction(){
+`function myFunction(){
 	
-	}`
-	* To trigger the myFunction function, you use: 
+}`
+
+	* To trigger the myFunction function above, you use: 
 `myFunction();
 `
 	* We also discussed writing your own functions which accept 1 or more parameters.  The "signature" (that is, the form for all such functions) is:
