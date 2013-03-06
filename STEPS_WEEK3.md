@@ -24,8 +24,7 @@ Plan
 	* We also discussed writing your own functions which accept 1 or more parameters.  The "signature" (that is, the form for all such functions) is:
 `function myOtherFunction(param1,param2){
 	//here you can access the values for param1 and param2
-}
-`
+}`
 
 	* With the way the myOtherFunction function is designed, you will trigger that function AND pass values for those two parameters.  Perhaps something like this: `myOtherFunction(100,150);`  (We will return to this topic because it's tricky.) 
 * coming up
