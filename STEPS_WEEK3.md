@@ -13,6 +13,7 @@ Plan
 		* line 8 where you begin subscribing to clicks:
 	`window.addEventListener("click", myHandler);`
 		* lines 9-12 where you define the myHandler function referenced on line 8:
+
 `function myHandler(evt){
 	//demonstrate access to two important properties of the evt parameter
 	console.log("you clicked " + evt.clientX + " x " + evt.clientY + " y");
