@@ -8,14 +8,13 @@ Plan
 * code movie
 * remind tinyurl.com/jscats
 * today
-	* watch me make mistakes/fix them and learn about functions
-	* set up event listeners to "listen" for clicks
-	* link to event listener starter http://jsfiddle.net/phillipkerman/MB6RV/
+	* learn to check the console for code errors, for example, this file (http://jsfiddle.net/phillipkerman/dyXs2/)  should display an error (in the console) every time you click in the "result" pane (bottom right square).  (To fix it: remove the begin comment "/*" on line 14 and end comment "*/" on line 25.)  
+	* See this example (http://jsfiddle.net/phillipkerman/MB6RV/) for how to set up a listener for "clicks".  There are two parts: line 8 where you begin subscribing to clicks:
+	`window.addEventListener("click", myHandler);`
 	* link to canvas starter (and draw APIs) http://jsfiddle.net/phillipkerman/Abttv/
 * coming up
 	* designing data types / objects
 	* arrays, loops, setInterval
-* link to my jsfiddle with 
 
 code.org (movie)
 =======
