@@ -1,4 +1,4 @@
-What we did mistake
+What we did
 =======
 * We discussed class pattern: 10-15 minutes discussion (bring a snack), 30+ minutes at computer, 10 minute post mortem if needed.
 * We discussed any epiphanies or ponderings.  One thing shared was that Eli discovered a language called Lua (http://www.lua.org/)
