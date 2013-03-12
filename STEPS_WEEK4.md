@@ -18,6 +18,7 @@ Plan
 	* Objects discussion: https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/objects.js
 	* Example: http://jsfiddle.net/phillipkerman/Hb5fR/
 * Create a custom object data type 
-* Design player vs. alien
+	* http://jsfiddle.net/phillipkerman/LCskf/2/
+* Design/discuss data objects needed for a player vs. alien game
 * Optional stuff to look at outside class
 	* cannon http://jsfiddle.net/phillipkerman/SkNSj/
