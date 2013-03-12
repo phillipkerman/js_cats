@@ -12,7 +12,7 @@ Plan
 
 ![](img/function_with_param.png)
 
-	* functions discussion https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/functions.js
+* functions discussion https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/functions.js
 
 * Think data separately from draw code 
 	* Objects discussion: https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/objects.js
