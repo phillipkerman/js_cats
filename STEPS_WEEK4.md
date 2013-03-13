@@ -27,7 +27,7 @@ Outline
 	* Start with this ( http://jsfiddle.net/phillipkerman/Hb5fR/ ) and try to recreate any or all the following three examples:
 		* Back and forth: http://phillipkerman.com/jscats/back_and_forth.html
 		* Back and forth (faster) http://phillipkerman.com/jscats/back_and_forth_faster.html
-		* Looping with no if-statements: http://phillipkerman.com/jscats/no_if.html
+		* Looping with no if-statements (hint "modulo"): http://phillipkerman.com/jscats/no_if.html
 * For next week: learn about custom objects 
 	* Objects discussion: https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/objects.js
 	* Example: http://jsfiddle.net/phillipkerman/LCskf/2/
