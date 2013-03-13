@@ -14,12 +14,16 @@ Plan
 
 * Example file which could use functions: https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/functions.js
 
-* MAIN THIS THIS WEEK: Think about data separately from code that draws. 
+* MAIN THING THIS WEEK: Think about data separately from code that draws. 
 	* Example: http://jsfiddle.net/phillipkerman/Hb5fR/
-* Promised link to tutorial on Sublime Text 2: https://tutsplus.com/course/improve-workflow-in-sublime-text-2/
+* Promised link to tutorial on Sublime Text 2:
+	* https://tutsplus.com/course/improve-workflow-in-sublime-text-2/
+	* youtube link of same movie: http://www.youtube.com/watch?v=TZ-bgcJ6fQo
 * For next week: learn about custom objects 
 	* Objects discussion: https://github.com/phillipkerman/js_cats/tree/master/discuss_codes/objects.js
 	* Example: http://jsfiddle.net/phillipkerman/LCskf/2/
 * Design/discuss data objects needed for a player vs. alien game
 * Optional stuff to look at outside class
 	* cannon http://jsfiddle.net/phillipkerman/SkNSj/
+* CHALLENGE EXERCISES:
+	* I'll update this shortly!
