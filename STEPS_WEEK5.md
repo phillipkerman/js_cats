@@ -7,6 +7,8 @@ PLAN
 * Basic Game Loop (in JavaScript):
 * ![](img/gameloop_js.png)
 * Pseudo-code Game Loop:
+* ![](img/gameloop_pseudo.png)
+* Stubbed Game Loop:
 * ![](img/gameloop_stubbed.png)
 * Regular event listeners:
 * ![](img/handler_but_errors.png)
