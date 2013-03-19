@@ -12,8 +12,11 @@ PLAN
 * ![](img/gameloop_stubbed.png)
 * Regular event listeners:
 * ![](img/handler_but_errors.png)
-* designing objects (or lists of objects)
-<starter link>
+* designing objects (or lists of objects--AKA "Arrays")
+* Starter: http://jsfiddle.net/phillipkerman/yuaj8/
+* Using an object: http://jsfiddle.net/phillipkerman/wvF5x/
+* Multiple objects: http://jsfiddle.net/phillipkerman/Trhvz/
+* Using arrays: http://jsfiddle.net/phillipkerman/tfxfD/
 * homework to design objects
 	* think objects have properties and behaviors
 
