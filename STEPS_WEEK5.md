@@ -18,5 +18,5 @@ PLAN
 * Multiple objects: http://jsfiddle.net/phillipkerman/Trhvz/
 * Using arrays: http://jsfiddle.net/phillipkerman/tfxfD/
 * homework to design objects
-	* think objects have properties and behaviors
+	* think about how objects can have both properties and behaviors
 
