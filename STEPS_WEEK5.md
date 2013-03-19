@@ -2,7 +2,7 @@ PLAN
 =======
 * share epiphanies, jokes, anything from between last class and this class.
 * define: pseudo-code
-	* already you do this
+	* you do this already
 * understand game loop
 * Basic Game Loop (in JavaScript):
 * ![](img/gameloop_js.png)
@@ -12,7 +12,8 @@ PLAN
 * ![](img/gameloop_stubbed.png)
 * Regular event listeners:
 * ![](img/handler_but_errors.png)
-* designing objects (and array)
+* designing objects (or lists of objects)
+<starter link>
 * homework to design objects
 	* think objects have properties and behaviors
 
