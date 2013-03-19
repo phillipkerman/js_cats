@@ -28,3 +28,16 @@ window.addEventListener("click", handleClick);
 function handleCLick(evt){
    //code
  }
+
+//one off:
+var person = { first: "Phillip", 
+ 			   last:"Kerman"  };
+
+//"class"
+function Person( theFirstName, theLastName){
+	return { first: theFirstName,
+			 last: theLastName };
+}
+//usage:
+var p1 = new Person("phillip", "kerman");
+var p2 = new Person ("joe", "smith");
