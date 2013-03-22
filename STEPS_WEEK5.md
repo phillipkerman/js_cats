@@ -25,4 +25,6 @@ PLAN
 	* Using arrays: http://jsfiddle.net/phillipkerman/tfxfD/
 * Homework will be about designing objects
 	* think about how objects can have both properties and behaviors
+* Spring Break stuff:
+	* TESTING: <iframe src="http://player.vimeo.com/video/62319185" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
