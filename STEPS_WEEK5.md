@@ -25,6 +25,10 @@ PLAN
 	* Using arrays: http://jsfiddle.net/phillipkerman/tfxfD/
 * Homework will be about designing objects
 	* think about how objects can have both properties and behaviors
-* Spring Break stuff:
-	* TESTING: p1: http://vimeo.com/62319185
+* >>>Spring Break stuff<<<:
+	* Video recap of this week: http://vimeo.com/62319185
+	* JSFiddle of code above: http://jsfiddle.net/phillipkerman/tdfX6/
+	* Video walkthrough of basic collision detection: http://vimeo.com/62363398
+	* JSFiddle of code above: http://jsfiddle.net/phillipkerman/ebyqD/
+	* Feel free to contact me with questions or additional challenges: phillipkerman@gmail.com
 
