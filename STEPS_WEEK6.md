@@ -13,6 +13,10 @@ Today: (incomplete) starter files
 * bounce http://jsfiddle.net/phillipkerman/FXcZW/ (was thinking something like this: http://phillipkerman.com/jscats/bounce.html)
 * pong http://jsfiddle.net/phillipkerman/79Rdq/
 
+If-statement reference:
+=======
+* ![](img/if.png)
+
 Repeat of objects discussion
 =======
 * See problem which can be solved with objects: http://jsfiddle.net/phillipkerman/yuaj8/
