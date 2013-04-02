@@ -11,3 +11,11 @@ Starter files (incomplete)
 =======
 * tic-tac-toe http://jsfiddle.net/phillipkerman/ntmGz/
 * bounce http://jsfiddle.net/phillipkerman/FXcZW/ (was thinking something like this: http://phillipkerman.com/jscats/bounce.html)
+* pong http://jsfiddle.net/phillipkerman/79Rdq/
+
+Repeat of objects discussion
+=======
+* See problem which can be solved with objects: http://jsfiddle.net/phillipkerman/yuaj8/
+* Make a person object
+* ![](img/person_one_off.png)
+* ![](img/person_class.png)
