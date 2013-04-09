@@ -28,6 +28,6 @@ Today's options
 			* http://fabricjs.com/fabric-intro-part-1/#images
 			* jsFiddle starter: http://jsfiddle.net/phillipkerman/3EeV8/
 * Fix or add to these starter files:
-	* asteroids: <will do?>
+	* asteroids: http://jsfiddle.net/phillipkerman/kTSRp/
 	* pong: http://jsfiddle.net/phillipkerman/79Rdq/  Also see keyboard control example: http://jsfiddle.net/phillipkerman/Hb8AL/
 * Do something else
