@@ -22,9 +22,8 @@ Today's options
 	* libraries to try:
 		* CreateJS 
 			* http://www.createjs.com/Docs/EaselJS/modules/EaselJS.html
-			* jsFiddle starter: 
+			* jsFiddle starter: http://jsfiddle.net/phillipkerman/mgPeN/
 		* FabricJS 
-			* http://fabricjs.com/
 			* http://fabricjs.com/fabric-intro-part-1/#images
 			* jsFiddle starter: http://jsfiddle.net/phillipkerman/3EeV8/
 * Fix or add to these starter files:
