@@ -1,8 +1,9 @@
 Discussion
 =======
-* NEXT week is last.
+* NEXT week is our last class.
 * share epiphanies, jokes, anything from between last class and this class. (I'll show http://www.phillipkerman.com/color/)
-* vocabulary: modulo, function, 
+* vocabulary: modulo, function, if-statement, JavaScript, canvas, html, css, data types, pseudo-code, properties, methods, string, number, concatenation.
+* see <a href='common_structure/if_statements_outside.js'>if_statements_outside.js</a>
 * see <a href='common_structure/functions_that_return_values.js'>functions_that_return_values.js</a>
 * other online code playpens: 
 	* http://codepen.io/  
