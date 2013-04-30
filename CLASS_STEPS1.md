@@ -1,11 +1,11 @@
 Outline for day:
 =======
 * learn the console (Ctrl+Shift+i)
-* see jsFiddle 
+* see jsFiddle (http://jsfiddle.net)
 * being a programmer
 	* humility
 	* high threashold for pain
-	* good on first try
+	* being "good" on first try
 * follow along the first part of "JavaScript for Cats" (http://jsforcats.com/)
 	* strings
 	* variables
@@ -13,13 +13,18 @@ Outline for day:
 	* using third-party libraries (of functions)
 * play with a canvas starter file at jsfiddle: http://jsfiddle.net/phillipkerman/5gnYa/
 * take a peek and modify mini projects on jsfiddle.
-	* circles: http://jsfiddle.net/phillipkerman/wFC2R/
-	* lines: http://jsfiddle.net/phillipkerman/Vjbah/
+	* circle where you click: http://jsfiddle.net/phillipkerman/wFC2R/
+	* random lines: http://jsfiddle.net/phillipkerman/Vjbah/
 	* animated circles: http://jsfiddle.net/phillipkerman/UjRAx/
 
 Link Reminder
 ======
 ![](link_picture.png)
+
+Outside of class watch the code.org (movie)
+=======
+* 6 minute version of "What Schools Don't Teach"  http://www.youtube.com/watch?v=nKIu9yen5nc
+* interesting critical blog post/review (and very diverse comments as well!) http://symbo1ics.com/blog/?p=1615
 
 
 
