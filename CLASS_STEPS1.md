@@ -1,5 +1,6 @@
 Outline for day:
 =======
+* use Chrome (via start>internet>chrome)
 * learn the console (Ctrl+Shift+i)
 * see jsFiddle (http://jsfiddle.net)
 * being a programmer
