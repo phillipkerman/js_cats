@@ -9,7 +9,7 @@ Outline for day:
 
 General Plan
 =======
-	* Understand traditional game loop
+	* Understand traditional game loop http://jsfiddle.net/phillipkerman/Xmq7E/
 	* Add if-statement to game loop
 	* Add gravity
 
