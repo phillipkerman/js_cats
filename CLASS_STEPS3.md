@@ -1,7 +1,10 @@
-Promised file:
+Follow up from last week
 =======
 * gravity: http://jsfiddle.net/phillipkerman/te9he/
 
-Next week:
+Today (last day):
 =======
-* voxel.js http://voxeljs.com/
+* play with voxel drone: http://shama.github.io/voxel-drone/ using commands from https://github.com/felixge/node-ar-drone
+* play with voxel creator http://voxel-creator.jit.su/
+* learn about voxel.js http://voxeljs.com/
+
