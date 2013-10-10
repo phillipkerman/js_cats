@@ -1,3 +1,21 @@
+For next week:
+=======
+* Bring to class any programming terms you have heard.
+* Consider defining any of the following terms (which I don't expect everyone to know)
+	* strings
+	* data types
+	* method/function
+	* parameters/arguments
+	* properties
+	* Canvas
+	* syntax
+	* pseudo-code
+
+Links mentioned in class:
+======
+* easy way back to our class files: tinyurl.com/jscats
+* http://voxeljs.com/
+
 Outline for day:
 =======
 * talk about the course overall--what do you want to get?
@@ -11,7 +29,7 @@ Outline for day:
 	* variables
 	* using functions
 	* using third-party libraries (of functions)
-* use my "Canvas starter code" (below) to play with canvas (triggering methods and setting properties)
+* use my "Canvas starter code" (http://jsfiddle.net/phillipkerman/5TN4n/) to play with canvas (triggering methods and setting properties)
 	* draw a rectangle (arguments for x,y,width,height):
 	```
 	ctx.fillRect(0,0,100,100);
@@ -20,7 +38,7 @@ Outline for day:
 	```
 	ctx.clearRect(0,0,100,100);
 	```
-	* other methods:
+	* set properties:
 	```
 	ctx.fillStyle = '#ff0000';
 	ctx.fillStyle = 'blue';
@@ -32,9 +50,8 @@ Outline for day:
 
 Follow "JavaScript for Cats"
 =======
-Unshamelesly, but with due respect, the content below is drawn from: http://jsforcats.com/
+Here are my notes from following along the first part of: http://jsforcats.com/
 
-After going through the first part of JavaScript For Cats (up to Arrays) you should be familiar with the code snippets below.
 
 Strings/variables/built-in functions
 =======

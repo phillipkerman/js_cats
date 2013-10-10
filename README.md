@@ -1,4 +1,4 @@
->> Begin by reading through CLASS_STEPS1.md!
+Begin by reading through CLASS_STEPS1.md!
 =======
 
 Additional class files for programming enrichment class will appear here.
