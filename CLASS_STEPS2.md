@@ -33,12 +33,12 @@ Outline for day:
 	* nice summary of canvas APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
 
 * work out solutions to the following bugs
-	* why don't I see anything? LINK
-	* why is the black box "in front of" the red box? LINK
-	* why do I only see one box instead of two? LINK 
+	* why is the box black (and not blue)? http://jsfiddle.net/phillipkerman/K3f9B/
+	* why is the black box "in front of" the red box? http://jsfiddle.net/phillipkerman/D4ZuU/
+	* why do I only see one box instead of two? http://jsfiddle.net/phillipkerman/bXqUa/ 
 * using hexidecimal numbers to set color http://phillipkerman.com/cedaroak/hex/
 * discuss events
-	* see how to "listen" for mouse clicks
-	* understand the typical game loop pattern
+	* see how to "listen" for mouse clicks http://jsfiddle.net/phillipkerman/RpMvY/
+	* understand the typical game loop pattern http://jsfiddle.net/phillipkerman/gg56W/
 
 	
