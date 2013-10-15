@@ -1,6 +1,6 @@
 This week:
 =======
-* Use the following APIs to 
+* Use more canvas APIs
 * Discuss terms
 	* strings
 	* data types
@@ -39,6 +39,6 @@ Outline for day:
 * using hexidecimal numbers to set color http://phillipkerman.com/cedaroak/hex/
 * discuss events
 	* see how to "listen" for mouse clicks http://jsfiddle.net/phillipkerman/RpMvY/
-	* understand the typical game loop pattern http://jsfiddle.net/phillipkerman/gg56W/
+	* understand the typical game loop pattern http://jsfiddle.net/phillipkerman/LDCsB/
 
 	
