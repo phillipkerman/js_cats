@@ -16,21 +16,20 @@ Outline for day:
 =======
 * review console and jsfiddle
 * see a typical file structure index.html/main.js (though we'll continue to use jsfiddle)
-* walk through basic canvas APIs
+* walk through basic canvas APIs http://jsfiddle.net/phillipkerman/5TN4n/
 	* help me draw some objects
-	```
-	ctx.fillRect(0,0,100,100);
-	ctx.strokeRect(0,0,100,100);
-	ctx.clearRect(0,0,100,100);
-	ctx.fillStyle = '#ff0000';
-	ctx.fillText("some string", 0,0);
-	ctx.strokeStyle = 'red';
-	ctx.lineWidth = 2;
-	ctx.beginPath();
-	ctx.moveTo(0,0);
-	ctx.lineTo(100,100);
-	ctx.stroke();
-	```
+	```ctx.fillRect(0,0,100,100);```
+	```ctx.strokeRect(0,0,100,100);```
+	```ctx.clearRect(0,0,100,100);```
+	```ctx.fillStyle = '#ff0000';```
+	```ctx.fillText("some string", 0,0);```
+	```ctx.strokeStyle = 'red';```
+	```ctx.lineWidth = 2;```
+	```ctx.beginPath();```
+	```ctx.moveTo(0,0);```
+	```ctx.lineTo(100,100);```
+	```ctx.stroke();```
+	
 	* nice summary of canvas APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
 
 * work out solutions to the following bugs
