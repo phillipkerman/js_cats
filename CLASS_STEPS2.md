@@ -77,6 +77,11 @@ for (var row=0; row<5; row++){
 	}
 }
 ```
-* challenge
-Use a loop to draw a ladder, sort of like this:
+Challenges
+=======
+
+* use a loop to draw a ladder, sort of like this:
+![](img/ladder.png)
+
+* challenge: use a loop to draw a ladder, sort of like this:
 ![](img/ladder.png)
