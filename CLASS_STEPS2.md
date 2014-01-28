@@ -31,7 +31,7 @@ Outline for day:
 	```ctx.lineTo(100,100);```
 	```ctx.stroke();```
 	
-	* nice summary of canvas APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
+* nice summary of canvas APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
 
 * work out solutions to the following bugs
 	* why is the box black (and not blue)? http://jsfiddle.net/phillipkerman/K3f9B/
