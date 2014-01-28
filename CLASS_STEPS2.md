@@ -2,11 +2,12 @@ This week
 =======
 * Use more canvas APIs
 * Discuss terms
-	* strings
-	* data types
+	* variables
+	* properties
 	* method/function
 	* parameters/arguments
-	* properties
+	* strings
+	* data types
 	* Canvas
 	* syntax
 	* pseudo-code
@@ -15,7 +16,7 @@ This week
 Outline for day:
 =======
 * review console and jsfiddle
-* see a typical file structure index.html/main.js (though we'll continue to use jsfiddle)
+* terms from above
 * walk through basic canvas APIs http://jsfiddle.net/phillipkerman/5TN4n/
 	* help me draw some objects
 	```ctx.fillRect(0,0,100,100);```
