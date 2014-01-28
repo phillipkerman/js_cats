@@ -45,6 +45,7 @@ Outline for day:
 Advanced Topics:
 =======
 * selecting random item from array
+
 ```
 var list = ["a", "b", "c"];
 
@@ -55,7 +56,9 @@ var randomItem = list[randomIndex];
 console.log("random item " + randomItem);
 
 ```
+
 * basic for-loop
+
 ```
 //format
 // for( init; condition; loop ) {}
@@ -65,6 +68,7 @@ for (var i=0; i<5; i++){
 ```
 
 * nested for-loop
+
 ```
 for (var row=0; row<5; row++){
 	console.log("row " + row);
