@@ -1,7 +1,20 @@
+For next week:
+=======
+* Bring to class any programming terms you have heard.
+* Consider defining any of the following terms (which I don't expect everyone to know)
+	* strings
+	* data types
+	* method/function
+	* parameters/arguments
+	* properties
+	* Canvas
+	* syntax
+	* pseudo-code
+
 Links mentioned in class:
 ======
 * easy way back to our class files: tinyurl.com/jscats
-
+* http://voxeljs.com/
 
 Outline for day:
 =======
@@ -12,6 +25,10 @@ Outline for day:
 	* high threashold for pain
 	* realize, things that are easy on first try are usually not particularly interesting. With programming, you'll be wrong a lot--that's part of the process
 * follow along the first part of "JavaScript for Cats" (http://jsforcats.com/)
+	* strings
+	* variables
+	* using functions
+	* using third-party libraries (of functions)
 * use my "Canvas starter code" (http://jsfiddle.net/phillipkerman/5TN4n/) to play with canvas (triggering methods and setting properties)
 	* draw a rectangle (arguments for x,y,width,height):
 	```
@@ -84,5 +101,26 @@ _.times(10, logANumber);
 
 [End of JavaScript For Cats portion--stop before Arrays]
 
+
+Canvas starter code:
+=======
+```javascript
+//makes and adds a canvas element and returns the context
+var ctx = (function(){
+
+	var 
+		canvas = document.createElement('canvas'),
+	    context = canvas.getContext("2d");
+
+	    document.body.appendChild( canvas );
+	    canvas.width = window.innerWidth;
+	    canvas.height = window.innerWidth;
+
+
+	return context;
+
+
+}).call(this);
+```
 
 

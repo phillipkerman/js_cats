@@ -1,4 +1,4 @@
-This week
+This week:
 =======
 * Use more canvas APIs
 * Discuss terms
@@ -42,37 +42,3 @@ Outline for day:
 	* understand the typical game loop pattern http://jsfiddle.net/phillipkerman/LDCsB/
 
 	
-Advanced Topics:
-=======
-* selecting random item from array
-```
-var list = ["a", "b", "c"];
-
-var randomIndex = Math.floor( Math.random()*list.length );
-
-var randomItem = list[randomIndex];
-
-console.log("random item " + randomItem);
-
-```
-* basic for-loop
-```
-//format
-// for( init; condition; loop ) {}
-for (var i=0; i<5; i++){
-	console.log(i);
-}
-```
-
-* nested for-loop
-```
-for (var row=0; row<5; row++){
-	console.log("row " + row);
-	for( var col=0; col<5; col++){
-		console.log("row " + row + " col " + col);
-	}
-}
-```
-* challenge
-Use a loop to draw a ladder, sort of like this:
-![](img/ladder.png)
