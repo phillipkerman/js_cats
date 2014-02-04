@@ -1,28 +1,27 @@
 Outline for day:
 =======
-* 
-* quick reference
-	```ctx.fillRect(0,0,100,100);```
+ * quick reference
+	```ctx.fillRect(0,0,100,100);
 
-	```ctx.strokeRect(0,0,100,100);```
+	ctx.strokeRect(0,0,100,100);
 
-	```ctx.clearRect(0,0,100,100);```
+	ctx.clearRect(0,0,100,100);
 
-	```ctx.fillStyle = '#ff0000';```
+	ctx.fillStyle = '#ff0000';
 
-	```ctx.fillText("some string", 0,0);```
+	ctx.fillText("some string", 0,0);
 
-	```ctx.strokeStyle = 'red';```
+	ctx.strokeStyle = 'red';
 
-	```ctx.lineWidth = 2;```
+	ctx.lineWidth = 2;
 
-	```ctx.beginPath();```
+	ctx.beginPath();
 
-	```ctx.moveTo(0,0);```
+	ctx.moveTo(0,0);
 
-	```ctx.lineTo(100,100);```
-	
-	```ctx.stroke();```
+	ctx.lineTo(100,100);
+
+	ctx.stroke();```
 	
 * full reference APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
 
