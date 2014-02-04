@@ -21,7 +21,7 @@ Outline for day:
 
 	ctx.lineTo(100,100);
 
-	ctx.stroke();```
+	ctx.stroke();
 	
 * full reference APIs http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf
 
