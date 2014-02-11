@@ -3,6 +3,8 @@ Outline for day:
 
  * Using documentation  (like http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf )
 
+ * simple mad-libs: http://jsfiddle.net/phillipkerman/3Rf76/
+
  * Arrays/loops and string manipulation: http://jsfiddle.net/phillipkerman/3zBDY/
 
 
