@@ -1,3 +1,25 @@
+basic graphics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
+requestAnimationFrame: http://jsfiddle.net/phillipkerman/c8mg71rv/
+
+context of jsfiddle and javascript generally
+
+variables
+if-statements (logical comparisions)
+loops
+functions
+oop
+pattern for coding animation
+
+lots with html canvas because you can see results.
+
+
+
+
+
+=====
+OLD
+
+
 Links mentioned in class:
 ======
 * easy way back to our class files: tinyurl.com/jscats
