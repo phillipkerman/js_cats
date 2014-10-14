@@ -1,5 +1,5 @@
-basic graphics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
-requestAnimationFrame: http://jsfiddle.net/phillipkerman/c8mg71rv/
+* basic graphics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
+* requestAnimationFrame: http://jsfiddle.net/phillipkerman/c8mg71rv/
 
 context of jsfiddle and javascript generally
 
