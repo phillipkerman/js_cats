@@ -1,5 +1,7 @@
 * basic graphics: http://jsfiddle.net/phillipkerman/3ywrf1cy/
 * requestAnimationFrame: http://jsfiddle.net/phillipkerman/c8mg71rv/
+* listening for "click": http://jsfiddle.net/phillipkerman/RpMvY/
+
 
 context of jsfiddle and javascript generally
 
@@ -15,9 +17,8 @@ lots with html canvas because you can see results.
 
 
 
-
 =====
-OLD
+OLDER (outline from last time class was offerred)
 
 
 Links mentioned in class:
